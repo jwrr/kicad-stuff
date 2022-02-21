@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "0001010_ffffffff",
+    "visible_layers": "0000000_80000000",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "jwrr-002.kicad_prl",
+    "filename": "jwrr-003.kicad_prl",
     "version": 3
   },
   "project": {
